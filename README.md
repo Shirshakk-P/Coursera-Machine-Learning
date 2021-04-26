@@ -1,5 +1,5 @@
 # Coursera-Machine-Learning
-Repository contains the codes for assignmnets available on the course "Machine Learning" offered by Andrew Ng under Coursera
+Repository contains the codes for all the assignmnets available on the course "Machine Learning" offered by Andrew Ng under Coursera.
 
 Course Link:
 
